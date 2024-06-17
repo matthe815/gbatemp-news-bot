@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bennyman123abc/gbatemp-news-bot#readme",
   "dependencies": {
-    "discord.js": "^11.4.2",
+    "discord.js": "^13.14.0",
     "discord.js-commando": "^0.10.0",
     "get-hrefs": "^2.0.0",
     "html2plaintext": "^2.0.1",

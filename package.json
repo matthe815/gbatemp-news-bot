@@ -23,6 +23,6 @@
     "html2plaintext": "^2.0.1",
     "rss-parser": "^3.4.3",
     "rss-watcher": "^1.4.0",
-    "sqlite": "^3.0.0"
+    "sqlite": "^4.0.1"
   }
 }
